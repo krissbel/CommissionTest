@@ -19,7 +19,7 @@ class MainKtTest {
             summ,
             transfer,
         )
-        assertEquals("Зачислено: 14909.8 р. Комиссия составила: 90.2 р.", result)
+        assertEquals("Зачислено: 14909.8 р. Комиссия составила: 90.1 р.", result)
     }
 
     @Test
